@@ -1,5 +1,5 @@
-document.getElementById('submit').addEventListener ('click',reportResults)
+document.getElementById('submit').addEventListener('click', reportResults)
 
 function reportResults () {
-  alert (document.getElementById('name').value)
+  alert(document.getElementById('name').value)
 }
